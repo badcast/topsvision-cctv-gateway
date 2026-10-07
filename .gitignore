@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Configuration files with credentials
+nvr_config.json
+*.env
+
+# Local recordings & snapshots
+*.mp4
+*.mkv
+*.avi
+*.jpg
+*.jpeg
+*.png
+/recordings/
+/snapshots/
+/archive/
+
+# Logs & temp files
+*.log
+/tmp/
+
+# IDE & Editor artifacts
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
